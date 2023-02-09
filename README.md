@@ -6,7 +6,11 @@
 - [New Bing with integrated CHapGPT](https://www.bing.com/new#examples)
 - [You](https://you.com/)
 - [Neeva](https://neeva.com/)
+- [Google Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)
 
+### Prompt Engineering
+- [Promtbase](https://promptbase.com/)
+- [ChatX](https://chatx.ai/marketplace/)
 
 ### AI Based Coding
 - [Write code](https://chat.openai.com/chat/0f7e04ab-a77e-41f3-83d0-3b023cb12419)
